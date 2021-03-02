@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ubqty/Java%20Sample%20App/_apis/build/status/johnalindogan.pipelines-java?branchName=master)](https://dev.azure.com/ubqty/Java%20Sample%20App/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
